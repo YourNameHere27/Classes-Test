@@ -1,0 +1,11 @@
+C:\Users\Martim\Desktop\projetos\class_teste\class_teste\bin\Debug\class_teste.exe.config
+C:\Users\Martim\Desktop\projetos\class_teste\class_teste\bin\Debug\class_teste.exe
+C:\Users\Martim\Desktop\projetos\class_teste\class_teste\bin\Debug\class_teste.pdb
+C:\Users\Martim\Desktop\projetos\class_teste\class_teste\obj\Debug\class_teste.csproj.AssemblyReference.cache
+C:\Users\Martim\Desktop\projetos\class_teste\class_teste\obj\Debug\class_teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\Martim\Desktop\projetos\class_teste\class_teste\obj\Debug\class_teste.Form1.resources
+C:\Users\Martim\Desktop\projetos\class_teste\class_teste\obj\Debug\class_teste.Properties.Resources.resources
+C:\Users\Martim\Desktop\projetos\class_teste\class_teste\obj\Debug\class_teste.csproj.GenerateResource.cache
+C:\Users\Martim\Desktop\projetos\class_teste\class_teste\obj\Debug\class_teste.csproj.CoreCompileInputs.cache
+C:\Users\Martim\Desktop\projetos\class_teste\class_teste\obj\Debug\class_teste.exe
+C:\Users\Martim\Desktop\projetos\class_teste\class_teste\obj\Debug\class_teste.pdb
